@@ -1,0 +1,26 @@
+h1 {
+  color: red;
+  font-size: 72px;
+}
+h2 {
+  color: green;
+  font-size: 36px;
+  font-family: Arial;
+}
+h2 span {
+  text-decoration: line-through;
+}
+span {
+  font-style: italic;
+}
+.bluesmall {
+  color: blue;
+  font-size: 22px;
+}
+#first {
+  font-size: 14px;
+}
+.bootycopy {
+  font-family: Courier;
+  font-size: 13px;
+}
