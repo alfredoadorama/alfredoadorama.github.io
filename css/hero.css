@@ -19,9 +19,32 @@ header img {
 .content {
   max-width: 900px;
   margin: 0 auto;
-  background-color: #efefef;
+  /*background-color: #efefef;*/
   padding: 0 20px;
 }
 img.big-image {
   max-width: 100%;
+}
+p.caption {
+  font-size: 14px;
+  color: #777;
+  font-family: Georgia;
+  font-style: italic;
+}
+ul {
+  list-style: none;
+}
+a {
+ color: red;
+ text-decoration: none;
+}
+footer {
+ padding: 20px 20px;
+ background-color: #e6e6e6;
+ text-align: center;
+}
+footer ul li {
+  text-align: center;
+  display: inline-block;
+  margin: 20px;
 }
