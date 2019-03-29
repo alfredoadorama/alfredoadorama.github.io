@@ -1,0 +1,27 @@
+html, body {
+  font-family: Arial, sans-sans-serif;
+  margin: 0;
+}
+header {
+  background-color: #003177;
+  padding: 40px;
+  text-align: center;
+}
+h1 {
+  font-size: 90px;
+  color: white;
+}
+header img {
+  border-radius: 175px;
+  width: 300px;
+  border: 16px solid #0061ff;
+}
+.content {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: #efefef;
+  padding: 0 20px;
+}
+img.big-image {
+  max-width: 100%;
+}
